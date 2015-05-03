@@ -1,0 +1,17 @@
+{
+  "name":	"angularapp-gulp-boilerplate",
+  "version":	"0.0.1",
+  "description":	"Aprendiendoangular",
+  "bugs":	{
+    "url":	"Cositas varias",
+    "email":	"redlim@gmail.com"
+  },
+  "license":	"Para matar",
+  "author":	"Wilder Olmos",
+  "repository":	{
+    "type":	"git",
+    "url":	""
+  },
+  "dependencies":	{},
+  "devDependencies":	{}
+}
